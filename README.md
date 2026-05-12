@@ -19,6 +19,16 @@ with focus on automotive applications and ECU development.
 - `03-stl/` — Standard Template Library
 - `projects/` — Mini projects
 
+## Progress Log
+
+### Week 1 — C++ Foundations
+
+**Day 1** ✅ — `Sensor` class
+- Built encapsulated class with private data + public methods
+- Setters, getters, and display method
+- Learned: `cin >>` vs `getline()` for multi-word input handling
+- Demonstrated multiple objects from single class
+
 ---
 
 Updated weekly as I progress 🚗⚡
