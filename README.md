@@ -29,6 +29,11 @@ with focus on automotive applications and ECU development.
 - Learned: `cin >>` vs `getline()` for multi-word input handling
 - Demonstrated multiple objects from single class
 
+**Day 2** ✅ — `Sensor` class with constructors
+- Default + parameterized constructors (constructor overloading)
+- Destructor for cleanup logging
+- Demonstrated object lifecycle (creation order vs destruction order — LIFO)
+- Cleaner object initialization in one line
 ---
 
 Updated weekly as I progress 🚗⚡
